@@ -21,6 +21,16 @@ This project shows how to:
 
 ---
 
+
+Final message:
+
+Part2 olindi:  -8330-342fcd83d68c
+Part1 olindi:  4328d69e-cdb0-4e74
+Yakuniy code:  4328d69e-cdb0-4e74-8330-342fcd83d68c
+Yuborilgan xabar:  Hello
+
+
+How it works:
 ## 🛠 Installation
 1.Install dependencies:
 

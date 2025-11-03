@@ -15,9 +15,9 @@ app.post("/", (req, res) => {
 
 app.listen(4000, async () => {
   console.log(`Server is running on port`, 4000);
-  
+
   // Shu yerga copy qilingan localtunneldagi url qoyiladi...
-  const webhook_url = "https://sharp-pianos-tell.loca.lt";
+  const webhook_url = "https://olive-files-cough.loca.lt";
 
   const payload = {
     msg: "Hello",
