@@ -1,3 +1,12 @@
+Final message:
+
+Part2 olindi:  -8330-342fcd83d68c <br/>
+Part1 olindi:  4328d69e-cdb0-4e74 <br/>
+Yakuniy code:  4328d69e-cdb0-4e74-8330-342fcd83d68c <br/>
+Yuborilgan xabar:  Hello
+
+<br/>
+<br/>
 # API Communication Test
 
 A Node.js project demonstrating HTTP communication with a test API, receiving a two-part code, and combining it to retrieve a final message.  
@@ -20,14 +29,6 @@ This project shows how to:
 - Localtunnel (for exposing your local webhook to the internet)  
 
 ---
-
-
-Final message:
-
-Part2 olindi:  -8330-342fcd83d68c <br/>
-Part1 olindi:  4328d69e-cdb0-4e74 <br/>
-Yakuniy code:  4328d69e-cdb0-4e74-8330-342fcd83d68c <br/>
-Yuborilgan xabar:  Hello
 
 
 How it works:
