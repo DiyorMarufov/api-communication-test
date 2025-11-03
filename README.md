@@ -28,7 +28,7 @@ npm install
 
 Localtunnel URL will change each time you run it unless you use a paid account.
 
-2.🌐 Using Localtunnel (Webhook)
+2.Using Localtunnel (Webhook)
 
 Expose your local server to the internet using Localtunnel:
 
@@ -42,7 +42,7 @@ Set it as your webhook URL in app.js (or your script):
 
 const webhook_url = "https://abcd1234.loca.lt";
 
-2.Start the server:
+3.Start the server:
 
 npm run dev
 
